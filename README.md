@@ -9,3 +9,4 @@
 6. [SVD](https://github.com/holman57/MachineLearningExamples/blob/master/SVD.ipynb)
 7. [MNIST Binary Classifier](https://github.com/holman57/Machine-Learning-Examples/blob/master/Binary_Classifier.ipynb)
 8. [MASK replacement with BERT](https://github.com/holman57/Machine-Learning-Examples/blob/master/BERT_replacements_for_a_mask.ipynb)
+9. [Regression Example Parkinson's Disease](https://github.com/holman57/Machine-Learning-Examples/blob/master/Regression_Parkinson's_disease.ipynb)
